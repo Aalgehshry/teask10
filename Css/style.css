@@ -1,0 +1,21 @@
+div{
+    text-align: center;
+}
+h1 {
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;   
+}
+
+p {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+button{
+    width: 200px;
+    height: 80px;
+    background-color: blue;
+    color:white;
+}
